@@ -3,7 +3,7 @@
 > A command-line tool to discover trending GitHub repositories — powered by the GitHub Search API, with optional AI-powered natural language querying via Google Gemini.
 
 ---
-
+ 
 ## Table of Contents
 
 - [Overview](#overview)
