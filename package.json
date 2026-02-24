@@ -1,0 +1,22 @@
+{
+  "name": "git-surge",
+  "version": "1.0.0",
+  "description": "CLI tool to fetch and display trending GitHub repositories",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "git-surge": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^11.1.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "author": "Harjap S. Bhatia (https://github.com/harjapbhatia)",
+  "license": "MIT"
+}
