@@ -281,4 +281,3 @@ AI mode:
 
 This project is licensed under the [MIT License](LICENSE).
 
-Project URL - https://github.com/HarjapBhatia/Git-Surge
